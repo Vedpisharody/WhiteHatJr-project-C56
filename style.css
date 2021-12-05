@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: cyan;
+}
+h1{
+    font-size: x-large;
+    color: darkblue;
+    background-color: darkmagenta;
+    font-family: 'Times New Roman', Times, serif;
+}
+.num{
+    width: 30%;
+    height: 35px;
+    background-color: firebrick;
+    color: white;
+}
+button{
+    color: magenta;
+    background-color: navy;
+    border-radius: 21px;
+    border-color: royalblue;
+}
